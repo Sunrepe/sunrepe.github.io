@@ -4,25 +4,6 @@
   
   
   <entry>
-    <title>测试文章</title>
-    <link href="/2023/08/04/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
-    <url>/2023/08/04/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
-    
-    <content type="html"><![CDATA[<p>s方式发撒旦飞洒树</p><h1 id="打法"><a href="#打法" class="headerlink" title="打法"></a>打法</h1><p>我和可</p><p>数学公式不支持吗？</p><img src="/2023/08/04/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/test.png" class="" title="图片引用方法一">]]></content>
-    
-    
-    
-    <tags>
-      
-      <tag>R</tag>
-      
-    </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
     <title>Hello World</title>
     <link href="/2023/08/04/hello-world/"/>
     <url>/2023/08/04/hello-world/</url>
@@ -33,6 +14,19 @@
     
   </entry>
   
+  
+  
+  
+  
+  
+  <entry>
+    <title>about</title>
+    <link href="/"/>
+    <url>/</url>
+    
+    <content type="html"><![CDATA[<h2 id="Education"><a href="#Education" class="headerlink" title="Education"></a>Education</h2><ul><li><p><strong>Ph.D. in Computer Science</strong> </p><ul><li>Institution of Automation, Chinese Academy of Science,  Beijing, China <em>2025(expected)</em></li><li>Dissertation: “Intelligence in LLM and Agents”</li><li>Research Interests: Artificial Intelligence, Reinforcement Learning, NLP</li></ul></li><li><p><strong>Bachelor of Computer Science</strong> </p><ul><li>Beijing Normal University, Beijing, China <em>(09&#x2F;2015 - 07&#x2F;2019)</em></li></ul></li></ul><h2 id="Research-Experience"><a href="#Research-Experience" class="headerlink" title="Research Experience"></a>Research Experience</h2><ul><li><p><strong>Postdoctoral Researcher</strong> - Research Lab&#x2F;Institution, City, Country <em>(Month Year - Present)</em></p><ul><li>Conducting research on [Research Area], working with a team of researchers.</li><li>Publishing research papers in top-tier conferences and journals.</li><li>Collaborating with industry partners on real-world applications.</li></ul></li><li><p><strong>Doctoral Research Assistant</strong> - University&#x2F;Research Lab, City, Country <em>(Month Year - Month Year)</em></p><ul><li>Investigated [Specific Research Topic] as part of Ph.D. research.</li><li>Developed novel algorithms and methodologies to address research problems.</li><li>Presented research findings at international conferences and workshops.</li></ul></li></ul><h2 id="Publications"><a href="#Publications" class="headerlink" title="Publications"></a>Publications</h2><ul><li><p><a href="https://doi.org/10.xxxxx">Your Last Name, First Initial., Author2 Last Name, First Initial., &amp; Author3 Last Name, First Initial. (Year). Title of Paper. <em>Journal Name</em>, Volume(Issue), Page range. DOI or URL</a></p></li><li><p><a href="https://doi.org/10.xxxxx">Author1 Last Name, First Initial., Author2 Last Name, First Initial., &amp; Your Last Name, First Initial. (Year). Title of Conference Paper. In <em>Proceedings of Conference Name</em> (pp. xxx-xxx). Publisher. DOI or URL</a></p></li></ul><h2 id="Awards-and-Honors"><a href="#Awards-and-Honors" class="headerlink" title="Awards and Honors"></a>Awards and Honors</h2><ul><li>List any academic awards, scholarships, or honors received.</li></ul><h2 id="Skills"><a href="#Skills" class="headerlink" title="Skills"></a>Skills</h2><ul><li>Programming Languages: Python, C++</li><li>Machine Learning Frameworks: PyTorch, TensorFlow</li><li>Data Analysis: Pandas, NumPy</li><li>Statistical Software: Matlab</li><li>LaTeX, Markdown</li></ul><h2 id="Professional-Memberships"><a href="#Professional-Memberships" class="headerlink" title="Professional Memberships"></a>Professional Memberships</h2><ul><li>Member, [Association&#x2F;Organization Name]</li></ul><h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><p>Available upon request.</p>]]></content>
+    
+  </entry>
   
   
   
